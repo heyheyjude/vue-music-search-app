@@ -9,7 +9,7 @@ export default {
   name: "Header",
   props: {
     title: {
-      default: "Music app",
+      default: "Music search",
       type: String,
     },
   },
